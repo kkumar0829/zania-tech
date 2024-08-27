@@ -1,0 +1,2 @@
+OPENAI_KEY = ''
+SLACK_API_TOKEN = ''
